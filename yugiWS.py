@@ -131,7 +131,6 @@ def main(args):
 			
 	#print(dfCartas)
 	#Gerando o arquivo .CSV
-	#dfCartas.to_csv (r'C:\Users\GodKelvin\Desktop\export_dataframe.csv', index = None, header=True)
 	dfCartas.to_csv ("preco.csv", index = None, header=True)
 	print("Arquivo criado com sucesso!")
 	
