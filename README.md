@@ -5,3 +5,5 @@ O sistema Want_Yugi foi desenvolvido como forma de avaliação durante a discipl
 
 # Observações
 Por questões de sigilo, os sites utilizados como base para o desenvolvimento do módulo de Web Scraping foram ocultados. 
+
+Módulo de Web Scraping desenvolvido apenas para fins acadêmicos. 
